@@ -1,6 +1,8 @@
 # NurseryAI
 This is our final Deep Learning project related to the plant's growth monitoring for nursery.
 
+You can look up for the project report and see the contribution of each member.
+
 The main code that should be launched is Final_code.ipynb. It contains all the necessary information about the training process.
 Note that this code has to be launched from the root of Google drive with the preliminarily created shortcut to the folder containing all the data (the link is https://drive.google.com/drive/folders/1OyAkH2b0cVaUeboEPS9upRyUI1okxBPQ?usp=sharing).
 
